@@ -1,5 +1,8 @@
 _repo: Uncanny-Stories-Where-Their-Fire-is-Not-Quenched-The-Token-The-Flaw-in-the-Crystal-The-Nature__59165
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59165-h/images/cover.jpg
 creator:
   author:
     agent_name: Sinclair, May
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3004
     wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59165#Uncanny-Stories-Where-Their-Fire-is-Not-Quenched-The-Token-The-Flaw-in-the-Crystal-The-Nature_
 gutenberg_issued: '2019-03-31'
 gutenberg_type: Text
 identifiers:
